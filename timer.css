@@ -1,0 +1,36 @@
+body {
+	background-color: #c5ded7;
+}
+
+.content {
+	padding-top: 150px;
+}
+
+.content .timer {
+	margin-top: 150px;
+	text-align: center;
+}
+
+
+.content .timer-info {
+	margin-top: 40px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+
+.content .timer-info .info-days {
+	margin-right: 110px;
+}
+
+.content .timer-info .info-hours,
+.info-minutes {
+	margin-right: 90px;
+}
+
+.content .timer-numbers {
+	margin-top: 0px;
+	font-size: 90px;
+	color: #45b29a;
+}
